@@ -1,0 +1,33 @@
+header{
+    position: fixed ;
+    top: 1px;
+    left: 1px;
+    width: 100%;
+    background-color: aqua;
+    text-align: center;
+    height: 50px;
+    margin: auto;
+    
+}
+footer{
+    position: static ;
+    top: 1px;
+    left: 1px;
+    width: 100%;
+    background-color: aqua;
+}
+main{
+    border: 1px solid black;
+    padding: 10px;
+}
+body{
+    background-color: aquamarine;
+}
+main{
+    background-color: antiquewhite;
+    width: 80%;
+    margin: auto;
+}
+nav{
+    padding-top:50px ;
+}
